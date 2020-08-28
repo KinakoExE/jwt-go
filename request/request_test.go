@@ -2,8 +2,8 @@ package request
 
 import (
 	"fmt"
-	"github.com/dgrijalva/jwt-go"
-	"github.com/dgrijalva/jwt-go/test"
+	"github.com/KinakoExE/jwt-go"
+	"github.com/KinakoExE/jwt-go/test"
 	"net/http"
 	"net/url"
 	"reflect"
